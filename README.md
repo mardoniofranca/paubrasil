@@ -45,7 +45,7 @@ Desafios
 
 # Implementação
 <b> aulas 1/pero_vaz_caminha </b> <br />
-<b> prepraração</b>
+<b> preparação</b>
 
 
 
