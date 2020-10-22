@@ -6,10 +6,12 @@
 
 # desafios:
 
-# aulas 1:
+aulas 1:
 
 - 
-# aula 2:
+
+aula 2:
+
 - 
 
 aula 3
