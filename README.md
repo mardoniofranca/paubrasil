@@ -5,10 +5,9 @@
 "no pão de açúcar/de cada dia/dai-nos senhor/a poesia/de cada dia
 
 # desafios:
-
 <b> aulas 1: </b>
 <hr />
-<br/> Desafios
+Desafios
 <ul>
    <li> Proporção dos inscritos por idade. </li>
    <li> Descobrir de quais estados são os inscritos com 13 anos. </li>
@@ -18,13 +17,30 @@
    <li> Explorar a documentações e visualizações com matplotlib ou pandas e gerar novas visualizações. </li>
 </ul>
 <hr />
-
-aula 2:
-
-- 
-
-aula 3
--
+<b> aulas 2: </b>
+<hr />
+Desafios
+<ul>
+   <li> Proporção dos inscritos por idade. </li>
+   <li> Descobrir de quais estados são os inscritos com 13 anos. </li>
+   <li> Adicionar título no gráfico </li>
+   <li> Plotar os Histogramas das idades dos do treineiro e não treineiros. </li>
+   <li> Comparar as distribuições das provas em inglês espanhol </li>
+   <li> Explorar a documentações e visualizações com matplotlib ou pandas e gerar novas visualizações. </li>
+</ul>
+<hr />
+<b> aulas 3: </b>
+<hr />
+Desafios
+<ul>
+   <li> Proporção dos inscritos por idade. </li>
+   <li> Descobrir de quais estados são os inscritos com 13 anos. </li>
+   <li> Adicionar título no gráfico </li>
+   <li> Plotar os Histogramas das idades dos do treineiro e não treineiros. </li>
+   <li> Comparar as distribuições das provas em inglês espanhol </li>
+   <li> Explorar a documentações e visualizações com matplotlib ou pandas e gerar novas visualizações. </li>
+</ul>
+<hr />
 
 
 
