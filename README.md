@@ -43,24 +43,9 @@ Desafios
 </ul>
 <hr />
 
-1) Mineração, Tratamento e Visualização
-
-- Consumo Dados do Enem
-- Apresentação das seguintes informações:
-   
-
-2) Processamento Paralelo de Dados Textuais sobre Enem
-- Tratamento Textuais de Tokens
-- Processamento Paralelo 
-
 # Implementação
+<b> aulas 1/pero_vaz_caminha </b>
+<b> prepraração</b>
 
-1) Mineração api (enem):
-  - [pau_brasil minerar ](https://github.com/mardoniofranca/maraca/blob/master/miner/api-request.ipynb)
 
-2) Preparação :
-  - [pau_brasil dançar ](https://github.com/mardoniofranca/maraca/blob/master/prepare/compras_itens.ipynb)
 
-3) Visualização:
-  - [pau_brasil_convite]  (https://github.com/mardoniofranca/maraca/blob/master/django/ )
-  - pau_brasil festejar ] 
