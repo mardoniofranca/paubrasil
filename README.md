@@ -6,14 +6,18 @@
 
 # desafios:
 
-aulas 1:
-
-Desafio 01: Proporção dos inscritos por idade.
-Desafio 02: Descobrir de quais estados são os inscritos com 13 anos.
-Desafio 03: Adicionar título no gráfico
-Desafio 04: Plotar os Histogramas das idades dos do treineiro e não treineiros.
-Desafio 05: Comparar as distribuições das provas em inglês espanhol
-Desafio 06: Explorar a documentações e visualizações com matplotlib ou pandas e gerar novas visualizações.
+<b> aulas 1: </b>
+<hr />
+<br/> Desafios
+<ul>
+   <li> Proporção dos inscritos por idade. </li>
+   <li> Descobrir de quais estados são os inscritos com 13 anos. </li>
+   <li> Adicionar título no gráfico </li>
+   <li> Plotar os Histogramas das idades dos do treineiro e não treineiros. </li>
+   <li> Comparar as distribuições das provas em inglês espanhol </li>
+   <li> Explorar a documentações e visualizações com matplotlib ou pandas e gerar novas visualizações. </li>
+</ul>
+<hr />
 
 aula 2:
 
