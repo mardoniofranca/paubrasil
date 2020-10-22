@@ -12,7 +12,7 @@ Desafios
    <li> Proporção dos inscritos por idade. </li>
    <li> Descobrir de quais estados são os inscritos com 13 anos. </li>
    <li> Adicionar título no gráfico </li>
-   <li> Plotar os Histogramas das idades dos do treineiro e não treineiros. </li>
+   <li> Plotar os Histogramas das idades dos treineiro e não treineiros. </li>
    <li> Comparar as distribuições das provas em inglês espanhol </li>
    <li> Explorar a documentações e visualizações com matplotlib ou pandas e gerar novas visualizações. </li>
 </ul>
