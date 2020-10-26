@@ -45,13 +45,17 @@ Desafios
 
 # Implementação   
 <b> miner(mineração) </b> <br />   
-<ul><li> miner/enem_2019-menores_14.ipynb
+<ul><li><a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-cidade.py'> 
+   miner/enem_2019-menores_14 </a>
    </li>
-   <li> miner/enem_2019-uf_ce.ipynb
+   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-menores_14.ipynb'>
+      miner/enem_2019-uf_ce </a>
    </li>
-   <li> miner/enem_2019.ipynb
+   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019-uf_ce.ipynb'>
+      miner/enem_2019</a>
    </li>
-   <li> miner/enem_2019-cidade.py
+   <li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/miner/enem_2019.ipynb'>
+      miner/enem_2019-cidade </a>
    </li>
 </ul>
 
@@ -67,6 +71,8 @@ Desafios
    </li>
 </ul>
 <b> view(visualização) </b> <br />   
-<ul><li> view/Enem_Faltas.ipynb
+<ul><li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/view/Enem_Faltas.ipynb'>
+   Enem_Faltas
+   </a>
    </li>
 </ul>
