@@ -43,9 +43,27 @@ Desafios
 </ul>
 <hr />
 
-# Implementação
-<b> aulas 1/pero_vaz_caminha </b> <br />
-<b> preparação</b>
+# Implementação   
+<b> miner(mineração) </b> <br />   
+<ul><li> http://localhost:8888/notebooks/rive/paubrasil/miner/enem_2019-menores_14.ipynb
+   </li>
+   <li> http://localhost:8888/notebooks/rive/paubrasil/miner/enem_2019-uf_ce.ipynb
+   </li>
+   <li> http://localhost:8888/notebooks/rive/paubrasil/miner/enem_2019.ipynb
+   </li>
+   <li> http://localhost:8888/edit/rive/paubrasil/miner/enem_2019-cidade.py
+   </li>
+</ul>
 
-
-
+<b> prepare(preparação) </b> <br />   
+<ul><li> http://localhost:8888/notebooks/rive/paubrasil/prepare/pero_vaz_caminha.ipynb
+   </li>
+   <li> http://localhost:8888/notebooks/rive/paubrasil/prepare/poemas_da_coloniza%C3%A7%C3%A3o.ipynb
+   </li>
+   <li> http://localhost:8888/notebooks/rive/paubrasil/prepare/poemas_da_coloniza%C3%A7%C3%A3o_salvador.ipynb
+   </li>
+</ul>
+<b> view(visualização) </b> <br />   
+<ul><li> http://localhost:8888/notebooks/rive/paubrasil/view/Enem_Faltas.ipynb
+   </li>
+</ul>
