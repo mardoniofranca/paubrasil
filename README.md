@@ -56,11 +56,11 @@ Desafios
 </ul>
 
 <b> prepare(preparação) </b> <br />   
-<ul><li> prepare/pero_vaz_caminha.ipynb
+<ul><li> <a href='https://github.com/mardoniofranca/paubrasil/blob/master/prepare/pero_vaz_caminha.ipynb'>https://github.com/mardoniofranca/paubrasil/blob/master/prepare/pero_vaz_caminha.ipynb</a>
    </li>
-   <li> prepare/poemas_da_coloniza%C3%A7%C3%A3o.ipynb
+   <li> https://github.com/mardoniofranca/paubrasil/blob/master/prepare/poemas_da_coloniza%C3%A7%C3%A3o.ipynb
    </li>
-   <li> prepare/poemas_da_coloniza%C3%A7%C3%A3o_salvador.ipynb
+   <li> https://github.com/mardoniofranca/paubrasil/blob/master/prepare/poemas_da_coloniza%C3%A7%C3%A3o_salvador.ipynb
    </li>
 </ul>
 <b> view(visualização) </b> <br />   
